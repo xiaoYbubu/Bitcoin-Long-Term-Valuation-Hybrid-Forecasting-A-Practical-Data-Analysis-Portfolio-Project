@@ -8,7 +8,7 @@ A practical data analysis project that models Bitcoin’s long-term price trend 
 
 ## Quick Links
 
-📄 **[Download Full PDF Report](./Bitcoin_Valuation_Report.pdf)**
+* 📄 **[Download Full PDF Report](./Bitcoin_Valuation_Report.pdf.pdf)**
 * 💻 **[View Jupyter Notebook (.ipynb)](./Bitcoin_PowerLaw_Hybrid_Model.ipynb)**
 
 ---
