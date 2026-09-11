@@ -62,8 +62,7 @@ The short-term hybrid model added almost no explanatory power, confirming that l
 ## Full Report
 
 The complete project report (methodology, results, interpretation, and limitations) is available here:
-
-📄 **[Download Full Report (PDF)](./Bitcoin%20Long-Term%20Valuation%20%26%20Hybrid%20Forecast.pdf)**
+* 📄 **[Download Full PDF Report](./Bitcoin_Valuation_Report.pdf.pdf)**
 
 ---
 
