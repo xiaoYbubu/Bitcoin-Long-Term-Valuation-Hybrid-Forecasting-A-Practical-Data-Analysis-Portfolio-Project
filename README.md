@@ -6,6 +6,13 @@ A practical data analysis project that models Bitcoin’s long-term price trend 
 
 ---
 
+## Quick Links
+
+* 📄 **[Download Full PDF Report](./Bitcoin%20Long-Term%20Valuation%20%26%20Hybrid%20Forecast.pdf)**
+* 💻 **[View Jupyter Notebook (.ipynb)](./Bitcoin_PowerLaw_Hybrid_Model.ipynb)**
+
+---
+
 ## Project Overview
 
 This project answers three practical questions:
@@ -23,13 +30,13 @@ The analysis was developed in three stages:
 
 ## Key Results
 
-| Metric                        | Value          |
-|-------------------------------|----------------|
-| Power-law Model R-squared     | **0.830**      |
-| Adjusted R-squared            | 0.829          |
-| Estimated Exponent (β)        | 4.84           |
-| Current Valuation Z-Score     | **–0.66**      |
-| Hybrid Model R-squared        | 0.005          |
+| Metric | Value |
+|---|---|
+| Power-law Model R-squared | **0.830** |
+| Adjusted R-squared | 0.829 |
+| Estimated Exponent (β) | 4.84 |
+| Current Valuation Z-Score | **–0.66** |
+| Hybrid Model R-squared | 0.005 |
 
 **Interpretation (as of 5 Sep 2026):**  
 Actual price ≈ $79,700 vs. model-implied trend ≈ $110,700.  
@@ -42,13 +49,13 @@ The short-term hybrid model added almost no explanatory power, confirming that l
 ## Visual Results
 
 **Figure 1.** Long-term power-law trend and 95% prediction band  
-![Figure 1: Power-Law Trend](./figure1.png)
+![Figure 1](./figure1.png)
 
 **Figure 2.** Long-term trend with residual Z-score valuation diagnostic  
-![Figure 2: Residual Z-Score Valuation](./figure2.png)
+![Figure 2](./figure2.png)
 
 **Figure 3.** Hybrid short-term forecast vs. pure power-law baseline (Sep–Dec 2026)  
-![Figure 3: Hybrid Short-term Forecast](./figure3.png)
+![Figure 3](./figure3.png)
 
 ---
 
@@ -56,12 +63,13 @@ The short-term hybrid model added almost no explanatory power, confirming that l
 
 The complete project report (methodology, results, interpretation, and limitations) is available here:
 
-📄 **[Download Full Report (PDF)](#)** *(Your PDF name is: `Bitcoin Long-Term Valuation & Hybrid Forecast...pdf`)*
+📄 **[Download Full Report (PDF)](./Bitcoin%20Long-Term%20Valuation%20%26%20Hybrid%20Forecast.pdf)**
 
 ---
 
 ## How to Run the Code
 
-1. Install required packages:
+1. Clone this repository or download `.ipynb` file.
+2. Install required packages:
 ```bash
 pip install numpy pandas matplotlib statsmodels
