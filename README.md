@@ -42,14 +42,13 @@ The short-term hybrid model added almost no explanatory power, confirming that l
 ## Visual Results
 
 **Figure 1.** Long-term power-law trend and 95% prediction band  
-<img width="518" height="286" alt="image" src="https://github.com/user-attachments/assets/1159ca01-db23-45f6-a519-6745e028b4a7" />
-
+![Figure 1: Power-Law Trend](./figure1.png)
 
 **Figure 2.** Long-term trend with residual Z-score valuation diagnostic  
-*(Insert figure2_zscore.png here)*
+![Figure 2: Residual Z-Score Valuation](./figure2.png)
 
 **Figure 3.** Hybrid short-term forecast vs. pure power-law baseline (Sep–Dec 2026)  
-*(Insert figure3_hybrid.png here)*
+![Figure 3: Hybrid Short-term Forecast](./figure3.png)
 
 ---
 
@@ -57,7 +56,7 @@ The short-term hybrid model added almost no explanatory power, confirming that l
 
 The complete project report (methodology, results, interpretation, and limitations) is available here:
 
-📄 **[Download Full Report (PDF)](./report/Bitcoin_Valuation_Report.pdf)**
+📄 **[Download Full Report (PDF)](#)** *(Your PDF name is: `Bitcoin Long-Term Valuation & Hybrid Forecast...pdf`)*
 
 ---
 
